@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manushadilan
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning AI/Machine learning
-- 📫 How to reach me -@ManushaDilan (Twitter)
+- 🌱 I’m currently learning AI/Machine learning ,IOT, Computer forensics
+- 📫 How to reach me - manushadilan@gmail.com
 
 <!---
 manushadilan/manushadilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
