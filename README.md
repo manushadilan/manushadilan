@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manushadilan
 - 👀 I’m interested in Machine learning , Bio informatics, Android and Devops.
-- 🌱 I’m currently learning AI/Machine learning , IOT, Computer forensics , Data mining , DevOps , Cyber Security
+- 🌱 I’m currently learning AI/Machine learning , IOT, Computer forensics , Data mining , DevOps , Cyber Security, Full stack development
 - 📫 How to reach me - manushadilan@protonmailDOTcom
 
 <!---
